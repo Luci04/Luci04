@@ -8,3 +8,5 @@
 - 📫 How to reach me: ...https://www.linkedin.com/in/avinash-shukla-3004b0169/
 - 😄 Pronouns: ...as u want!!!
 - ⚡ Fun fact: ...I love 3000
+
+<img src="https://github-readme-stats.vercel.app/api?username=Luci04&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
