@@ -1,4 +1,4 @@
-### Hola, I'm Avinash 👋
+### Hello, I'm Avinash 👋
 
 - 🔭 I’m currently working on ...Front-End Edits
 - 🌱 I’m currently learning ...React
