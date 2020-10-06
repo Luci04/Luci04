@@ -6,5 +6,4 @@
 - 🤔 I’m looking for help with ...Project Ideas 
 - 💬 Ask me about ...Javascript or C/C++
 - 📫 How to reach me: ...https://www.linkedin.com/in/avinash-shukla-3004b0169/
-- 😄 Pronouns: ...as u want!!!
-- ⚡ Fun fact: ...I love 3000
+- ⚡ Fun fact: ...I love nutella more than harshey coco spread
