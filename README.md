@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with ...Project Ideas 
 - 💬 Ask me about ...Javascript or C/C++
 - 📫 How to reach me: ...https://www.linkedin.com/in/avinash-shukla-3004b0169/
-- ⚡ Fun fact: ...I love nutella more than harshey coco spread
+- ⚡ Fun fact: ...Both Nutella and Harshey taste the Same.
