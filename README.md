@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on ...Chrome Extension Tools
 - 🤔 I’m looking for help with ...Project Ideas 
 - 💬 Ask me about ...Javascript or C/C++
-- 📫 How to reach me: ...https://www.linkedin.com/in/avinash-shukla-3004b0169/
+- 📫 How to reach me: ...linkedin.com/in/avinashukla
 - ⚡ Fun fact: ... Nutella and Harshey Coco Spread are not Same.
 
 
