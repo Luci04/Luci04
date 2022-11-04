@@ -24,3 +24,6 @@ My vision is to make the world a better place. Now almost everything is becoming
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=luci04&count_private=true&show_icons=true&include_all_commits=true&theme=algolia)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luci04&layout=compact&theme=algolia)
+
+## Collection
+[![@luci_04's Holopin board](https://holopin.me/luci_04)](https://holopin.io/@luci_04)
